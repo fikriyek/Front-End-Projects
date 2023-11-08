@@ -1,17 +1,29 @@
-# My GitHub contributions as a Game of Life
+### Hi there 👋
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-(Be sure to click on it for the infinite scrolling version.)
+<p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+Junior+Full-Stack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /></a>
+</p>
 
-### What's this?
+<b>🔭 I am curious to learn a Front-end or Back-end Web Design🌱</b><br/><br/>
+<b>🌱 I'm currently learning</b> 😂<br/><br/>
+<b>🥅 Goals for 2023: Developing a lot of Frontend and Backend applications 🌎 <br/><br/>
+<b>⚡ Fun fact: I love reading 🏊‍♀️, pilates 🛍️ <br/><br/>
 
-This takes my GitHub contribution graph and uses it as the initial state for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a popular cellular automaton that is often built by beginning software developers as an easy-to-implement but interesting piece of software.
 
-Conway's Game of Life only defines two initial states for cells, but there are [multi-color variants](https://conwaylife.com/ref/mniemiec/color.htm).  This is a variant of "Quad Life" (chosen because the GitHub contribution graph has four colors that represent the intensity of contributions for a given day): in the typical Game of Life rules, a graph with a lot of contribution would die out in the first iteration (because the cells would be overcrowded), which seems to punish those with a lot of contributions, giving them a boring Game of Life.  Intead, this variant "decays" the level of contribution, so cells will fade away instead of dying immediately.
 
-### How does it work?
 
-This uses a JavaScript library called [contributions](https://npmjs.com/contributions) to create a data structure with a GitHub contribution graph, and uses that as the initial state for another JavaScript library called [dat-life](http://npmjs.com/dat-life).
 
-A simple Node.js application called [github4life](https://github.com/ethomson/github4life) -- so named because it takes a _GitHub_ contribution graph and turns it into a _4_ color Game of _Life_ -- renders this as an animated GIF.  When talking to GitHub's image caching service (camo) it will render 20 frames and then stop (so that the resulting image can actually be cached) but when you hit it with your web browser, it will render the game of life on-demand - infinitely continuing to deliver you the next state as a new frame in the GIF, forever.
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"> <br/><br/>
+
+  
+ 
+  
+ 
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<p width="100%">
+<a href="https://github.com/fikriyek">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fikriyek&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fikriyek&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
