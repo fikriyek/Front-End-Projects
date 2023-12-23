@@ -1,0 +1,35 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100%;
+    background: linear-gradient( rgb(65, 190, 215),rgb(218, 139, 218), rgb(217, 121, 121));
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.heading{
+   font-size: 16px;
+   font-weight: bold;
+   color: white;
+   text-align: center;
+}
+input{
+    width: 800px;
+    height: 35px;
+}
+
+button{
+    width: 800px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    font-size: 14px;
+}
